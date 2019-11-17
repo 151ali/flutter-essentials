@@ -1,4 +1,5 @@
 # Flutter essentials
+Forked from [Djamaleddine Belilet](https://github.com/jamalbelilet/flutter-essentials)
 
 Slides for the "Flutter essentials" workshop!
 
